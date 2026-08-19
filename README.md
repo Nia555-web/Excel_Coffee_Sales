@@ -16,21 +16,44 @@ I also formatted and standardized several fields, including:</p>
 <li>Currency</li>
 <li>Day of the week</li>
 <li>Time of day</li>
-<p>These additional fields allowed me to investigate sales patterns across different days, months and times.</p>
+<p> </p>
 <img src="./Screenshot (757).png"/>
-<h2>To create new columns I used functions like =IF/ =IFS.</h2>
-<img src="./Screenshot (759).png"/>
+<h2>Using Excel Formulas</h2>
+<p>I used Excel functions to create new calculated columns and categorise the data.
+
+Some of the functions I practised included:</p>
+<li>IF</li>
+<li>IFS</li>
+<li>SUMIF</li>
+<li>COUNTIF</li>
+<li>AVERAGEIF</li>
+<li>Date and time functions</li>
+<p></p>
+<p>For example, I used IFS to group individual transaction times into hourly time periods, which allowed me to analyse how coffee sales changed throughout the day.</p>
 <img src="./Screenshot (760).png"/>
 <img src="./Screenshot (761).png"/>
-<img src="./Screenshot (768).png"/>
-<p>After data table was cleaned, organised I started creating Pivot Tables to start visualizing data.</p>
+<h2>PivotTables</h2>
+<p>After cleaning and preparing the dataset, I created PivotTables to summarise the data and investigate different aspects of the coffee shop's sales.</p>
 <img src="./Screenshot (762).png"/>
-<h2>Move Pivot Tables with visualization charts, bars, pies and etc.</h2>
+<p>I used PivotTables to explore areas such as:</p>
+<li>Sales by coffee type</li>
+<li>Number of coffees sold</li>
+<li>Sales by payment method</li>
+<li>Sales by month</li>
+<li>Sales by day/time</li>
+<li>Coffee popularity throughout the day</li>
+<p></p>
+<h2>Data Visualization</h2>
+<p>I then used the results of my PivotTables to create different visualisations, including bar charts, pie charts, line charts and stacked bar charts.</p>
 <img src="./Screenshot (763).png"/>
 <img src="./Screenshot (764).png"/>
 <img src="./Screenshot (765).png"/>
 <img src="./Screenshot (766).png"/>
 <img src="./Screenshot (767).png"/>
 <h2>Summary or my findings</h2>
-<p>First Bar chart demonstrated that this coffee shop best sales were done by Latte and Americano with milk. Second bar chart was made with line chart to see if coffee count and sales represent the sales, for examle this cafe sold more coffee cups of americano with milk, but even if it sold slightly less cups of Latte it still made more money than americano with milk. Third Pie chart demonstrated the proportion of card payment versus cash payment where we can see that cash payment was very upopular payment method. Fourth line chart of the sales of every month demonstrated that October and February higher sale comparing other months, while January had lowest sales probably due to christams and new years on previous month. Lastly I did stacked bar chart to show coffee sales trends thruought the time of the day, and showing coffee popularity withing time of the day sales. </p>
+<li>Latte and Americano with milk generated the highest sales.</li>
+<li>Although Americano with milk had more cups sold, Latte generated higher revenue, showing that sales volume and revenue can tell different stories.</li>
+<li>Cash payments were more common than card payments in this dataset.</li>
+<li>October and February had the highest monthly sales, while January had the lowest, suggesting some seasonal variation.</li>
+<li>Last chart demonstrates sales variations throughout the day, with different coffee types showing different levels of popularity across time periods.</li>
 
