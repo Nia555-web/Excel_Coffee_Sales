@@ -55,5 +55,5 @@ Some of the functions I practised included:</p>
 <li>Although Americano with milk had more cups sold, Latte generated higher revenue, showing that sales volume and revenue can tell different stories.</li>
 <li>Cash payments were more common than card payments in this dataset.</li>
 <li>October and February had the highest monthly sales, while January had the lowest, suggesting some seasonal variation.</li>
-<li>Last chart demonstrates sales variations throughout the day, with different coffee types showing different levels of popularity across time periods.</li>
+<li>Last chart demonstrates sales variations throughout the day, with different coffee types showing different levels of popularity across time periods, showing that weekends tend to be less busy than the weekdays.</li>
 
